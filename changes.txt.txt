@@ -1,2 +1,19 @@
-Requirments:
-break down the page into different pages with navigation
+        <script>
+            // Add an event listener to the button
+            document.getElementById("aboutbutton").addEventListener("click", function() {
+                // Redirect to documents.html
+                window.location.href = "about.html";
+            });
+            document.getElementById("aboutbutton").addEventListener("click", function() {
+                // Redirect to documents.html
+                window.location.href = "about.html";
+            });
+            document.getElementById("aboutbutton").addEventListener("click", function() {
+                // Redirect to documents.html
+                window.location.href = "about.html";
+            });
+            document.getElementById("aboutbutton").addEventListener("click", function() {
+                // Redirect to documents.html
+                window.location.href = "about.html";
+            });
+        </script>
