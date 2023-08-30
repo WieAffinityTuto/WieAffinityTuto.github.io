@@ -1,0 +1,2 @@
+Requirments:
+break down the page into different pages with navigation
