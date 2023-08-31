@@ -55,7 +55,7 @@ https://templatemo.com/tm-578-first-portfolio
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_1">Home</a>
+                            <a class="nav-link click-scroll" href="#section_1" id ="home">Home</a>
                         </li>
 
                         
@@ -349,6 +349,10 @@ https://templatemo.com/tm-578-first-portfolio
             document.getElementById("template").addEventListener("click", function() {
                 // Redirect to documents.html
                 window.location.href = "template.html";
+            });
+            document.getElementById("home").addEventListener("click", function() {
+                // Redirect to documents.html
+                window.location.href = "index.html";
             });
         </script>
     </body>
